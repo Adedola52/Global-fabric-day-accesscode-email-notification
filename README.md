@@ -9,7 +9,7 @@ Attendees who registered for the event were to be sent a personalized access cod
 - I generated unique access codes (a mix of text and numbers) using Python
 - The codes were saved to a .csv file for easy reference and tracking
   
-## Tool Used:
+## Tool Used
 - Python
 
 ## Solution Overview
@@ -24,6 +24,6 @@ The function leverages smtplib to connect to the email server and uses MIMEMulti
 
 The function also includes error handling to ensure that any issues during the email-sending process or server connection are logged and managed properly.
 
-## Email Recipients Received:
+## Email Recipients Received
 ![image alt](https://github.com/Adedola52/Global-fabric-day-accesscode-email-notification/blob/e20cac8a21d683d33f1a12f788ccc7b881bf8c22/Fabric%20Day%20Access%20code%20email.jpg)
 
